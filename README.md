@@ -11,7 +11,6 @@
 - **QQ**：不告诉你 💬
 # 🙏 致谢
 感谢您的光临！如果您对我的项目感兴趣，或者有任何建议和想法，请随时提issue！💌 我会继续努力，为大家带来更多精彩内容！🌈
-# 目前楠寻的博客和代码库无限期停更！
 <!---
 njmxye/njmxye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
