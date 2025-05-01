@@ -3,7 +3,6 @@
 - **名字**：楠寻 🌳🔍
 - **Blog**: [楠寻的小窝](https://njmxye.github.io/)
 - **GitHub**：[njmxye(github)](https://github.com/njmxye)
-- **Gitee**：[njmxye(gitee)](https://gitee.com/njmxye)
 - **兴趣爱好**：编程💻、阅读📚、旅行🚀、摄影📸
 - **技能**：Python🐍、Java☕、C++🤖、HTML/CSS/JavaScript🌐、Linux🐧
 ## 📬 联系方式
