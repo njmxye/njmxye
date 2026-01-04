@@ -1,5 +1,7 @@
 # 🌟👋 欢迎来到楠寻的GitHub宇宙！🌌
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njmxye&show_icons=true&theme=transparent)
+<p align="center">
+<img src="https://githubcard.com/njmxye.svg?d=dO07LAzx" alt="njmxye" /> 
+</p>
 ## ✨ 关于我
 - **名字**：楠寻 🌳🔍
 - **Blog**: [楠寻的小窝](https://njmxye.github.io/)
