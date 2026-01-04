@@ -1,4 +1,4 @@
-# 🌟👋 hi，这里是楠寻。🌌
+# 🌟👋 Hi，这里是楠寻。🌌
 
 <p align="center">
 <img src="https://githubcard.com/njmxye.svg?d=dO07LAzx" alt="njmxye" /> 
@@ -6,8 +6,8 @@
 
 
 ## ✨ 关于我
-- **名字**：楠寻 🌳🔍
-- **Blog**: [楠寻的小窝](https://njmxye.github.io/)
+
+- **Blog**: [楠寻的小窝](https://njmxye.de5.net)
 - **GitHub**：[njmxye(github)](https://github.com/njmxye)
 
 # 🙏 致谢
